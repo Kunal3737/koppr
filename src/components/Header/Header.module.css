@@ -1,0 +1,15 @@
+.outerHeader {
+    /* border: red 2px solid; */
+    /* border-bottom: black 1px solid; */
+    box-shadow:0 2px 4px #27878E, 0 0 0 #27878E inset;
+    box-sizing: border-box;
+    height: 100px;
+    width: 100%;
+    padding-left: 50px;
+    padding-top: 33px;
+}
+
+img {
+    width: 99.43px;
+    height: 24px;
+}
